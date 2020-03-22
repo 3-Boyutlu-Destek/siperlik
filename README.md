@@ -20,11 +20,11 @@ CDC (Centers for Disease Control and Prevention) gibi sağlık kuruluşları tar
 
 #### Baskı özellikleri
 
-250 mikron
-1.2mm duvar kalınlığı
-%25 iç doluluk
-Destek yok
-70mm/s hız
+- 250 mikron
+- 1.2mm duvar kalınlığı
+- %25 iç doluluk
+- Destek yok
+- 70mm/s hız
 
 ### Şeffaf Plaka
 
