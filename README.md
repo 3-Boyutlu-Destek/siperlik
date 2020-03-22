@@ -18,6 +18,9 @@ CDC (Centers for Disease Control and Prevention) gibi sağlık kuruluşları tar
 
 Üretim için 3B yazıcınızda covid19_headband_rc2.stl ve bottom_reinforcement.stl dosyalarında yer alan modelleri bastırmanız gerekmektedir.
 
+#### Materyal
+PLA
+
 #### Baskı özellikleri
 
 250 mikron
@@ -30,7 +33,7 @@ Destek yok
 
 A3 ve A4 boyutunda kesilecek PetG materyelin tasarım dosyalarını seffaf_plaka klasöründe bulabilirsiniz. Tıbbi müdahale ekiplerinden alınan geri bildirim doğrultusunda A3 boyutunu kullanmanız tavsiye edilir. A4 boyutu koruyuculuk açısından yetersiz kalabilmektedir.
 
-#### Materyel Özellikleri
+#### Materyal Özellikleri
 
 0,5 mm PetG
 
