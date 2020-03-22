@@ -28,7 +28,7 @@ Destek yok
 
 ### Şeffaf Plaka
 
-A3 ve A4 boyutunda kesilecek PetG materyelin tasarım dosyalarını şeffaf plaka klasöründe bulabilirsiniz. Tıbbi müdahale ekiplerinden alınan geri bildirim doğrultusunda A3 boyutunu kullanmanız tavsiye edilir. A4 boyutu koruyuculuk açısından yetersiz kalabilmektedir.
+A3 ve A4 boyutunda kesilecek PetG materyelin tasarım dosyalarını seffaf_plaka klasöründe bulabilirsiniz. Tıbbi müdahale ekiplerinden alınan geri bildirim doğrultusunda A3 boyutunu kullanmanız tavsiye edilir. A4 boyutu koruyuculuk açısından yetersiz kalabilmektedir.
 
 #### Materyel Özellikleri
 
