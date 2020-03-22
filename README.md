@@ -23,11 +23,11 @@ PLA
 
 #### Baskı özellikleri
 
-250 mikron
-1.2mm duvar kalınlığı
-%25 iç doluluk
-Destek yok
-70mm/s hız
+- 250 mikron
+- 1.2mm duvar kalınlığı
+- %25 iç doluluk
+- Destek yok
+- 70mm/s hız
 
 ### Şeffaf Plaka
 
