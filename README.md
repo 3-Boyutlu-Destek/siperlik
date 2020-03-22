@@ -36,10 +36,13 @@ A3 ve A4 boyutunda kesilecek PetG materyelin tasarım dosyalarını şeffaf plak
 
 ### Esnek Lastik
 
+https://www.tuhafiyecimiz.com/products/copy-of-1-5-cm-yassi-lastik?variant=17374312005
+
 #### Materyel Özellikleri
 2 cm genişlikte olmalı
 
 ### Nasıl birleştirilir?
+
 https://www.youtube.com/watch?v=pP7z3iw76GA&feature=youtu.be
 
 ## Ar-Ge
