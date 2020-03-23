@@ -16,7 +16,7 @@ CDC (Centers for Disease Control and Prevention) gibi sağlık kuruluşları tar
 
 ### 3B yazıcıdan çıktı alınması
 
-Üretim için 3B yazıcınızda covid19_headband_rc2.stl ve bottom_reinforcement.stl dosyalarında yer alan modelleri bastırmanız gerekmektedir.
+Üretim için 3B yazıcınızda alin_bandi_r1.stl ve alt_takviye.stl dosyalarında yer alan modelleri bastırmanız gerekmektedir.
 
 #### Materyal
 PLA
