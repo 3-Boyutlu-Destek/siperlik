@@ -9,12 +9,13 @@ CDC (Centers for Disease Control and Prevention) gibi sağlık kuruluşları tar
 
 ## Nasıl Üretirim?
 
-  Tıbbi koruyucu maskenin üretimi sırasıyla 3 aşamadan oluşmaktadır. 
+  Tıbbi koruyucu maskenin üretimi sırasıyla 4 aşamadan oluşmaktadır. 
   1) 3B yazıcıdan çıktı alınması
-  2) PetG şeffaf plakanın hazırlanması ve birleştirilmesi
-  3) Esnek lastiğin hazırlanması ve birleştirilmesi
+  2) PetG şeffaf plakanın hazırlanması
+  3) Esnek lastiğin hazırlanması
+  4) Birleştırme
 
-### 3B yazıcıdan çıktı alınması
+### 1) 3B yazıcıdan çıktı alınması
 
 Üretim için 3B yazıcınızda siperlik_vX.stl dosyasında yer alan modeli bastırmanız gerekmektedir. Alın bandı ve alt takviye tek bir dosyada birleştirilmiştir.
 
@@ -24,6 +25,7 @@ CDC (Centers for Disease Control and Prevention) gibi sağlık kuruluşları tar
 #### Baskı özellikleri
 
 25 Mart 2020 tarihinde güncellenmiştir.
+
 ****
 - 300 mikron
 - 1.2mm duvar kalınlığı
@@ -32,7 +34,7 @@ CDC (Centers for Disease Control and Prevention) gibi sağlık kuruluşları tar
 - 100mm/s hız
 ****
 
-### Şeffaf Plaka
+### 2) Şeffaf Plakanın Hazırlanması
 
 A3 ve A4 boyutunda kesilecek PetG materyelin tasarım dosyaları kalkan_A3.dxf ve kalkan_A4.dxf'dir. Tıbbi müdahale ekiplerinden alınan geri bildirim doğrultusunda A3 boyutunu kullanmanız tavsiye edilir. A4 boyutu koruyuculuk açısından yetersiz kalabilmektedir
 
@@ -40,14 +42,16 @@ A3 ve A4 boyutunda kesilecek PetG materyelin tasarım dosyaları kalkan_A3.dxf v
 
 0,5 mm PetG
 
-### Esnek Lastik
+### 3) Esnek Lastik
 
 https://www.tuhafiyecimiz.com/products/copy-of-1-5-cm-yassi-lastik?variant=17374312005
 
 #### Materyel Özellikleri
 2 cm genişlikte olmalı
 
-### Nasıl birleştirilir?
+### 4) Nasıl birleştirilir?
+
+Birleştirme aşamaları için rehber.pdf dosyasını inceleyiniz.
 
 https://www.youtube.com/watch?v=pP7z3iw76GA&feature=youtu.be
 
