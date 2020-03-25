@@ -16,18 +16,21 @@ CDC (Centers for Disease Control and Prevention) gibi sağlık kuruluşları tar
 
 ### 3B yazıcıdan çıktı alınması
 
-Üretim için 3B yazıcınızda alinBandi_ve_takviye_r1.stl dosyalarında yer alan modelleri bastırmanız gerekmektedir. Alın bandı ve alt takviye tek bir dosyada birleştirilmiştir.
+Üretim için 3B yazıcınızda siperlik_vX.stl dosyasında yer alan modeli bastırmanız gerekmektedir. Alın bandı ve alt takviye tek bir dosyada birleştirilmiştir.
 
 #### Materyal
-PLA
+Öncelikli olarak PLA yoksa ABS ile de baskı alabilirsiniz.
 
 #### Baskı özellikleri
 
-- 250 mikron
+25 Mart 2020 tarihinde güncellenmiştir.
+****
+- 300 mikron
 - 1.2mm duvar kalınlığı
 - %25 iç doluluk
 - Destek yok
-- 70mm/s hız
+- 100mm/s hız
+****
 
 ### Şeffaf Plaka
 
