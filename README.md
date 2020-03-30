@@ -2,6 +2,10 @@
 
 Siperlik yapımı için gerekli dosya ve yapım dökümanlarını içerir.
 
+GÜNCELLEME: Lazer kesime ulaşamayan üreticiler için klipsli modeller eklenmiştir. 
+- Klips_ve_Tac.stl dosyasinda klips ve tac kısmı birliktedir.
+- Klips_v2.stl dosyasında sadece klips yer almaktadır.
+
 ## Neden Gerekli?
 
 Tıbbi müdahalede buluna personelin başta göz bölgesi olmak üzere yüzünü koruması için bir gözlüğe ihtiyaç duyulmaktadır. Tüm yüzünü damlacıklara karşı korumak için bu dökümanda anlatılan yüz koruyucu maskeye (siperlik) ihtiyaç duyulmaktadır.
