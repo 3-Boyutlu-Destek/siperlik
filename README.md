@@ -2,7 +2,8 @@
 
 Siperlik yapımı için gerekli dosya ve yapım dökümanlarını içerir.
 
-GÜNCELLEME: Lazer kesime ulaşamayan üreticiler için klipsli modeller eklenmiştir. 
+GÜNCELLEME: Lazer kesime ulaşamayan üreticiler için klipsli modeller eklenmiştir.
+Klipsli modeller, İstanbul’da üretim yapanlar için değildir. Lazer kesim imkanı olmayan iller içindir.
 - Klips_ve_Tac.stl dosyasinda klips ve tac kısmı birliktedir.
 - Klips_v2.stl dosyasında sadece klips yer almaktadır.
 
